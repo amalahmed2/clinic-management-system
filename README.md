@@ -21,7 +21,7 @@ clinic-management-system/
 Use `create_tables.sql` to create the database schema.
 
 ### 2. Insert Sample Data
-Run `load_data.sql` to populate the tables with test records.
+Run `load_data.sql` to fill the tables with test records.
 
 ### 3. Test Queries
 Execute `queries.sql` .
