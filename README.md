@@ -5,6 +5,7 @@ This is a database project for managing clinic operations, including departments
 
 ## 📁 Repository Structure
 clinic-management-system/
+
 ├── README.md                  
 ├── report.docx                
 ├── presentation.pptx          
