@@ -4,17 +4,19 @@
 This is a database project for managing clinic operations, including departments, clinics, doctors, patients, and appointments. The system stores patient information and enables scheduling, diagnosis recording, and report querying.
 
 ## 📁 Repository Structure
+```
 clinic-management-system/
-├── README.md                   ← Project overview and instructions
-├── report.docx                 ← Full written report
-├── presentation.pptx           ← PowerPoint presentation slides
-├── video_link.txt              ← Link to the recorded walkthrough video
+├── README.md                  ← Project overview and instructions
+├── report.docx                ← Full written report
+├── presentation.pptx          ← PowerPoint presentation slides
+├── video_link.txt             ← Link to the recorded walkthrough video
 ├── sql/
-│   ├── create_tables.sql       ← DDL: CREATE TABLE statements
-│   ├── load_data.sql           ← DML: INSERT INTO statements (test data)
-│   ├── queries.sql             ← Required SQL queries (retrieval/aggregation)
-│   └── triggers.sql            ← All trigger logic (like preventing overlaps)
-└── src/                        ← (Optional - application UI if bonus done)
+│   ├── create_tables.sql      ← DDL: CREATE TABLE statements
+│   ├── load_data.sql          ← DML: INSERT INTO statements (test data)
+│   ├── queries.sql            ← Required SQL queries (retrieval/aggregation)
+│   └── triggers.sql           ← All trigger logic (like preventing overlaps)
+└── src/                       ← (Optional - application UI if bonus done)
+```
 
 ## ▶️ How to Run the Project
 
