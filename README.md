@@ -5,16 +5,17 @@ This is a database project for managing clinic operations, including departments
 
 ## 📁 Repository Structure
 clinic-management-system/
-
-├── README.md                  
-├── report.docx                
-├── presentation.pptx          
-├── video_link.txt             
+├── README.md                   ← Project overview and instructions
+├── report.docx                 ← Full written report
+├── presentation.pptx           ← PowerPoint presentation slides
+├── video_link.txt              ← Link to the recorded walkthrough video
 ├── sql/
-│   ├── create_tables.sql      
-│   ├── load_data.sql                    
-│   └── queries.sql         
-└── src/               
+│   ├── create_tables.sql       ← DDL: CREATE TABLE statements
+│   ├── load_data.sql           ← DML: INSERT INTO statements (test data)
+│   ├── queries.sql             ← Required SQL queries (retrieval/aggregation)
+│   └── triggers.sql            ← All trigger logic (like preventing overlaps)
+└── src/                        ← (Optional - application UI if bonus done)
+      
 
 ## ▶️ How to Run the Project
 
