@@ -34,7 +34,7 @@ https://nileuniversity-my.sharepoint.com/personal/a_ahmed2152_nu_edu_eg/_layouts
 
 ## Created by
 Amal Ahmed  
-Course: Database Systems  
+Course:Fundamentals of Databases 
 Instructor: Dr. Muhmemmad Elsayeh
 
 
